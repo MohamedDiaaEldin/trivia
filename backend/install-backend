@@ -1,0 +1,5 @@
+- install pip -> sudo apt-get install pip
+- pip install -r rquirements.txt
+- define local database path in the app
+- run the backend server
+
