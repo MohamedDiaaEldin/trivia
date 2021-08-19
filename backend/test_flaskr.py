@@ -34,6 +34,7 @@ class TriviaTestCase(unittest.TestCase):
             # create all tables
             self.db.create_all()
     
+    
     def tearDown(self):
         """Executed after reach test"""
         pass
