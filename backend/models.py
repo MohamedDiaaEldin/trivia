@@ -1,5 +1,5 @@
 import os
-from sqlalchemy import Column, String, Integer, create_engine
+from sqlalchemy import Column, String, Integer, create_engine, engine
 from flask_sqlalchemy import SQLAlchemy
 import json
 from dotenv import load_dotenv
@@ -43,11 +43,11 @@ class Question(db.Model):
   category = Column(String)
   difficulty = Column(Integer)
 
-  def __init__(self, question, answer, category, difficulty):
-    self.question = question
-    self.answer = answer
-    self.category = category
-    self.difficulty = difficulty
+  # def __init__(self, question, answer, category, difficulty):
+  #   self.question = question
+  #   self.answer = answer
+  #   self.category = category
+  #   self.difficulty = difficulty
 
   def insert(self):
     db.session.add(self)

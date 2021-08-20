@@ -1,0 +1,13 @@
+1,Whose death sparked World War I , Archduke Franz Ferdinand ,4,8
+2,Which of these nations was neutral in World War I, Norway ,4,6
+3,Which of these ships was sunk by a German submarine,Lusitania,4,6
+4,Which weapon was first used at the Battle of the Somme in World War I,Tank,4,6
+5,whene the World War I ended in ,1918 ,4,5
+6,How many republics made up the former Soviet Union?,15 ,4,5
+7,When was the first Nobel Prize in economics awarded ,1969,4,5
+8,what country was Simón Bolívar president ,Peru,4,6
+9,Where were the Aegean Bronze Age civilizations located?,Greece,8,5
+10,which national park does the Continental Divide not pass? ,Yosemite ,4,7
+11, Who was the first U.S. president to appear on television?,Franklin Delano Roosevelt,4,4
+12,What automobile was named after Henry Ford’s only son   ,Edsel,4,5
+13,how many times egypt upgrated to world cup,1,6,7
